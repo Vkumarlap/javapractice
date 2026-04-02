@@ -25,10 +25,10 @@ class Demo {
 }
 
 public class DockingExceptionUsingThrows {
-    public static void main(String[] args)  {
-        
-        Demo obj=new Demo();
+    public static void main(String[] args) {
+
+        Demo obj = new Demo();
         obj.C();
-        
+
     }
 }
